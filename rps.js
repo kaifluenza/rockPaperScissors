@@ -1,3 +1,14 @@
+//examine the document object
+// console.log(document.URL);
+// document.title = "RPS";
+// console.log(document.title);
+// console.log(document.body);
+//console.log(document.images);
+
+
+//selectors: get element by id
+
+
 function getComputerChoice() {
     let ranNum = Math.floor(Math.random()*3); //expected:0,1,or 2
     if (ranNum===0) return "rock";
