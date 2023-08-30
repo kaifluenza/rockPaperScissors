@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+h1 {
+    color:rgb(232, 134, 150);
+    
+}
+button{
+    background-color: pink;
+    border-width: 0;
+    border-radius: 8px;
+    padding:8px;
+
+}
+.buttons{
+    gap:8px;
+    display:flex;
+    justify-content: space-evenly;
+    margin:12px;
+    
+}
